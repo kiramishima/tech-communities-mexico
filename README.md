@@ -8,6 +8,7 @@
 <li><a href="https://www.meetup.com/es-ES/eventloop/">Eventloop</a> y el Slack es <a href="http://chat.javascriptmx.com">Eventloop</a></li>
 <li><a href="https://www.meetup.com/es-ES/Androidinights/">Androidinights</a></li>
 <li><a href="https://www.meetup.com/es-ES/jvm-mx/">JVM Mexico City</a></li>
+<li><a href="https://phpmexico.mx/">PHP México</a></li>
 </ul>
 
 <h3>Guadalajara</h3>
